@@ -1,6 +1,6 @@
 # Software Setup
 
-All tutorials are Python-based Jupyter notebooks. The instructions below explain how to install the necessary Python packages depending on the type of platform. The tutorial 2.6 on gravitational-wave skymap also requires the installation of the Aladin GUI ; installation instructions are provided at the bottom of this page for all platforms.
+All tutorials are Python-based Jupyter notebooks.
 
 ## Option 1: Google co-labs
 
@@ -12,14 +12,15 @@ You can open any notebook in the Google Co-labs.
 
 2) Click the GITHUB tab
 
-3) Enter "gw-odw/odw-2019" in the search bar, and click enter to search
+3) Enter "gw-odw/odw-2020" in the search bar, and click enter to search
 
 4) Double click the notebook of your choice
 
-5) At the top of the notebook, there are 2 lines to install the needed Python modules
+5) At the top of the notebook, uncomment any `pip install` commands by removing the `#`
 
-`! wget -q https://raw.githubusercontent.com/gw-odw/odw-2019/master/requirements.txt -O requirements.txt` <br/>
-`! pip install -q -r ./requirements.txt`
+`# ! pip install -q -r gwpy`  <-- Remove the `#` and run
+
+6) Click `run all` from the menu at the top
 
 ## Option 2: Run in mybinder
 
