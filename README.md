@@ -1,4 +1,4 @@
-# GW Open Data Workshop #2: Hands-on exercises
+# GW Open Data Workshop #3: Hands-on exercises
 
 Material to support 
 [GW Open Data Workshop #3](https://www.gw-openscience.org/s/workshop3/),
