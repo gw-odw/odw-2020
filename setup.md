@@ -48,19 +48,16 @@ You may need to restart your computer after installation.
 4) Create the environment <br/>
 `conda env create --file igwn-py37.yaml`
 
-5) Install jupyter <br/>
-`conda install --name igwn-py37 -c conda-forge jupyter` <br/>
-
-6) Clone the workshop git repo <br/>
+5) Clone the workshop git repo <br/>
 `git clone https://github.com/gw-odw/odw-2020.git`
 
-7) Move into the directory with the workshop git repo <br/>
+6) Move into the directory with the workshop git repo <br/>
 `cd odw-2020`
 
-8) Activate the enviornment <br/>
+7) Activate the enviornment <br/>
 `conda activate igwn-py37`
 
-9) Start the jupyter notebook server <br/>
+8) Start the jupyter notebook server <br/>
 `jupyter notebook`
 
 ## Option 4: Linux install on Windows 10 with dedicated app (Windows 10 only)
