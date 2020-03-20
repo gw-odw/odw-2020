@@ -53,7 +53,7 @@ You may need to restart your computer after installation.
 5) Install jupyter <br/>
 `conda install --name igwn-py37 -c conda-forge jupyter` <br/>
 
-6) Clone the workshop git repo
+6) Clone the workshop git repo <br/>
 `git clone https://github.com/gw-odw/odw-2020.git`
 
 7) Move into the directory with the workshop git repo <br/>
@@ -65,9 +65,9 @@ You may need to restart your computer after installation.
 9) Start the jupyter notebook server <br/>
 `jupyter notebook`
 
-## Option 4: You use Windows 10 -- Easy Linux install on Windows 10 with dedicated app
+## Option 4: Easy Linux install on Windows 10 with dedicated app (Windows 10 only)
 
-<img src='https://www.wispresort.com/uploadedImages/Winter/hard.png' width=20 /> Intermediate (For Windows 10)
+<img src='https://www.wispresort.com/uploadedImages/Winter/hard.png' width=20 /> Advanced (For Windows 10)
 
 Install a Linux distribution on your Windows system. 
 See instructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win10
@@ -76,6 +76,3 @@ We suggest you install Debian GNU/Linux, which is the closest distribution to wh
 used currently by LIGO/Virgo. Once you have Linux installed, follow the instructions 
 in Option 2.
 
-## Visualization tool for gravitational-wave skymaps 
-
-To install the Aladin GUI, follow the instructions here: https://aladin.u-strasbg.fr/java/nph-aladin.pl?frame=downloading
