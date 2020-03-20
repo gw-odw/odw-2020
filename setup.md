@@ -18,46 +18,46 @@ You can open any notebook in the Google Co-labs.
 
 5) At the top of the notebook, uncomment any `pip install` commands by removing the `#`
 
-`# ! pip install -q -r gwpy`  <-- Remove the `#` and run
+`#! pip install -q 'gwpy==1.0.1`  <-- Remove the `#` and run
 
-6) Click `run all` from the menu at the top
+6) Click `run all` from the `runtime` menu at the top
 
 ## Option 2: Run in mybinder
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gw-odw/odw-2019/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gw-odw/odw-2020/master)
 
 
 ## Option 3: You have a Linux or Apple/Mac computer -- Use conda
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/intermediate.png' width=20 /> Intermediate (Some software installation; Will not work on Windows PC)
 
-Note: this workshop will use Python version 2.7.
+Note: this workshop will use Python version 3.7
 
 1) Install miniconda: https://conda.io/en/latest/miniconda.html <br/>
-Choose the version for Python 2.7. 
+Choose the version for Python 3.7. 
 See the installation instructions here: https://conda.io/projects/conda/en/latest/user-guide/install/
 You may need to restart your computer after installation.
 
-2) Download or clone the git repo: https://github.com/gw-odw/odw-2019/archive/master.zip <br/>
-`git clone https://github.com/gw-odw/odw-2019.git`
+2) Download the IGWN YML file from [IGWN Conda Distribution](https://computing.docs.ligo.org/conda/environments/igwn-py37/)
+ * [YML file for linux](https://computing.docs.ligo.org/conda/environments/linux/igwn-py37.yaml)
+ * [YML file for osx  ](https://computing.docs.ligo.org/conda/environments/osx/igwn-py37.yaml)
 
 3) Add the conda-forge channel <br/>
 `conda config --add channels conda-forge`
 
-4) Move into the directory with the workshop git repo <br/>
-`cd odw-2019`
+4) Create the environment <br/>
+`conda env create --file igwn-py37.yaml`
 
-5) Create the environment <br/>
-`conda create --name odw2019 python=2.7`
+5) Install jupyter <br/>
+`conda install --name igwn-py37 -c conda-forge jupyter` <br/>
 
-6) Install the software <br/>
-`conda install --name odw2019 --file requirements.txt` <br/>
-`conda install --name odw2019 -c conda-forge jupyter` <br/>
+6) Move into the directory with the workshop git repo <br/>
+`cd odw-2020`
 
 7) Activate the enviornment <br/>
-`conda activate odw2019`
+`conda activate igwn-py37`
 
 8) Start the jupyter notebook server <br/>
 `jupyter notebook`
