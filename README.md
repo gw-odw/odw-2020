@@ -6,7 +6,7 @@ May 26-27, 2020
 
 ## Software setup
 
-**Instructions for accessing the required software are available [here](./setup.md)**
+**[Software Setup Instructions](./setup.md)**
 
 ## Hands-on Session Program
 

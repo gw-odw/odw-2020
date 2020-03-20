@@ -1,12 +1,10 @@
 # Software Setup
 
-All tutorials are Python-based Jupyter notebooks.
+Choose an option below.
 
 ## Option 1: Google co-labs
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
-
-You can open any notebook in the Google Co-labs.
 
 1) Visit https://colab.research.google.com
 
@@ -65,7 +63,7 @@ You may need to restart your computer after installation.
 9) Start the jupyter notebook server <br/>
 `jupyter notebook`
 
-## Option 4: Easy Linux install on Windows 10 with dedicated app (Windows 10 only)
+## Option 4: Linux install on Windows 10 with dedicated app (Windows 10 only)
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/hard.png' width=20 /> Advanced (For Windows 10)
 
