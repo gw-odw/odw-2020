@@ -6,6 +6,8 @@ Choose an option below.
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/easy.png' width=20 /> Easy (No software installation; Works for any OS)
 
+[Video Guide](https://labcit.ligo.caltech.edu/~jkanner/gwosc/colab-help-2020.mov)
+
 1) Visit https://colab.research.google.com
 
 2) Click the GITHUB tab
