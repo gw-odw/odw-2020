@@ -20,6 +20,8 @@ Choose an option below.
 
 `#! pip install -q 'gwpy==1.0.1`  <-- Remove the `#` and run
 
+(you will probably see the warning: `Unrecognised runtime "igwin-py37"; defaulting to "python3"`. Don't worry it is an expected behaviour)
+
 6) Click `run all` from the `runtime` menu at the top
 
 ## Option 2: Run in mybinder
