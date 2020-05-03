@@ -64,6 +64,7 @@ You may need to restart your computer after installation.
 8) Start the jupyter notebook server <br/>
 `jupyter notebook`
 
+(Also in this case, when you open a notebook you could see the message: `Could not find kernel matching igwn-py37. Please select a kernel: Python 3`. This is just due to the name assigned to the kernel that could not match the name of the environment. To be sure you are using the correct kernel, you can check the list of kernels in a terminal with `jupyter kernelspec list`)
 ## Option 4: Linux install on Windows 10 with dedicated app (Windows 10 only)
 
 <img src='https://www.wispresort.com/uploadedImages/Winter/hard.png' width=20 /> Advanced (For Windows 10)
