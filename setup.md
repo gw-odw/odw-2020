@@ -61,7 +61,10 @@ You may need to restart your computer after installation.
 7) Activate the enviornment <br/>
 `conda activate igwn-py37`
 
-8) Start the jupyter notebook server <br/>
+8) Update the gwosc package at the version 0.5.3 that will be used for this workshop
+`conda install gwosc=0.5.3`
+
+9) Start the jupyter notebook server <br/>
 `jupyter notebook`
 
 (Also in this case, when you open a notebook you could see the message: `Could not find kernel matching igwn-py37. Please select a kernel: Python 3`. This is just due to the name assigned to the kernel that could not match the name of the environment. To be sure you are using the correct kernel, you can check the list of kernels in a terminal with `jupyter kernelspec list`)
