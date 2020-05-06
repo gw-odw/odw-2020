@@ -66,6 +66,8 @@ You may need to restart your computer after installation.
 
 9) Build a custom jupyter kernel using the command <br/>
 `ipython kernel install --user --name=igwn-py37`
+or equivalently
+`python -m ipykernel install --user --name=igwn-py37`
 
 10) Start the jupyter notebook server <br/>
 `jupyter notebook` and select the kernel `igwn-py37` if this is not done by default.
