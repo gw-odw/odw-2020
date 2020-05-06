@@ -65,8 +65,8 @@ You may need to restart your computer after installation.
 `conda install gwosc=0.5.3`
 
 9) Build a custom jupyter kernel using the command <br/>
-`ipython kernel install --user --name=igwn-py37`
-or equivalently
+`ipython kernel install --user --name=igwn-py37` <br/>
+or equivalently <br/>
 `python -m ipykernel install --user --name=igwn-py37`
 
 10) Start the jupyter notebook server <br/>
