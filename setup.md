@@ -20,6 +20,8 @@ Choose an option below.
 
 `#! pip install -q 'gwpy==1.0.1`  <-- Remove the `#` and run
 
+(you will probably see the warning: `Unrecognised runtime "igwin-py37"; defaulting to "python3"`. Don't worry it is an expected behaviour)
+
 6) Click `run all` from the `runtime` menu at the top
 
 ## Option 2: Run in mybinder
@@ -56,11 +58,24 @@ You may need to restart your computer after installation.
 6) Move into the directory with the workshop git repo <br/>
 `cd odw-2020`
 
-7) Activate the enviornment <br/>
+7) Activate the environment <br/>
 `conda activate igwn-py37`
 
-8) Start the jupyter notebook server <br/>
-`jupyter notebook`
+8) Update the gwosc package at the version 0.5.3 that will be used for this workshop <br/>
+`conda install gwosc=0.5.3`
+
+9) Build a custom jupyter kernel using the command <br/>
+`ipython kernel install --user --name=igwn-py37` <br/>
+or equivalently <br/>
+`python -m ipykernel install --user --name=igwn-py37`
+
+10) Start the jupyter notebook server <br/>
+`jupyter notebook` and select the kernel `igwn-py37` if this is not done by default.
+
+Troubleshooting:
+- The kernel `igwn-py37` should appear in the list returned by the command `jupyter kernelspec list` executed in a terminal
+- If, when you run jupyter, you get the message: `Could not find kernel matching igwn-py37. Please select a kernel: Python 3`
+this indicates the `igwn-py37` kernel is not installed properly. Make sure you executed step 9)
 
 ## Option 4: Linux install on Windows 10 with dedicated app (Windows 10 only)
 
