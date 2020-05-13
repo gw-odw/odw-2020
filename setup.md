@@ -43,8 +43,8 @@ See the installation instructions here: https://conda.io/projects/conda/en/lates
 You may need to restart your computer after installation.
 
 2) Download the IGWN YML file from [IGWN Conda Distribution](https://computing.docs.ligo.org/conda/environments/igwn-py37/)
- * [YML file for linux](https://computing.docs.ligo.org/conda/environments/linux/igwn-py37.yaml)
- * [YML file for osx  ](https://computing.docs.ligo.org/conda/environments/osx/igwn-py37.yaml)
+ * [YML file for linux](./environment.yml)
+ * [YML file for osx  ](./igwn-py37-osx.yaml)
 
 3) Add the conda-forge channel <br/>
 `conda config --add channels conda-forge`
