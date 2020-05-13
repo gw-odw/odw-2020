@@ -42,7 +42,7 @@ Choose the version for Python 3.7.
 See the installation instructions here: https://conda.io/projects/conda/en/latest/user-guide/install/
 You may need to restart your computer after installation.
 
-2) Download the IGWN YML file from [IGWN Conda Distribution](https://computing.docs.ligo.org/conda/environments/igwn-py37/)
+2) Download the IGWN YML file for the [IGWN Conda Distribution](https://computing.docs.ligo.org/conda/environments/igwn-py37/)
  * [YML file for linux](./environment.yml)
  * [YML file for osx  ](./igwn-py37-osx.yaml)
 
