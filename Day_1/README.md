@@ -8,3 +8,6 @@ Click links below to open tutorials in Google Colab
 * [Tuto 1.4](https://colab.research.google.com/github/gw-odw/odw-2020/blob/master/Day_1/Tuto%201.4%20Generating%20waveforms.ipynb)
 
 
+### Quiz Questions
+
+* [Quiz](https://drive.google.com/drive/folders/1NDNi96q7iPzdAs2ljOJIec7cGDWa_r3-)
