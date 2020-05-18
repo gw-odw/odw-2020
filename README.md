@@ -14,6 +14,8 @@ May 26-27, 2020
 
 [Day 1 tutorials](./Day_1)
 
+[Quiz](https://drive.google.com/drive/folders/1NDNi96q7iPzdAs2ljOJIec7cGDWa_r3-)
+
 #### Topics:
  * Discover, download, and read data
  * FFTs, PSDs, and whitening
@@ -23,6 +25,8 @@ May 26-27, 2020
 ### Day 2 hands-on session
 
 [Day 2 tutorials](./Day_2)
+
+[Quiz](https://drive.google.com/drive/folders/1NDNi96q7iPzdAs2ljOJIec7cGDWa_r3-)
 
 #### Topics:
  * GW signals from compact object mergers
