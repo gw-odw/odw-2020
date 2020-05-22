@@ -10,16 +10,17 @@ Data files may be downloaded using these links:
 * [challenge2.gwf](https://www.gw-openscience.org/s/workshop3/challenge/challenge2.gwf)
 * [challenge3.gwf](https://www.gw-openscience.org/s/workshop3/challenge/challenge3.gwf)
 
+Workshop participants may
+[submit solutions](https://docs.google.com/forms/d/e/1FAIpQLScPEI21PtEpthhKMznd8W1jvBBhA6QcmX2LhW53ObXow85i0w/viewform)
+as individuals or in teams of up
+to 3 people.  Solutions are due at the start of the close-out session on Day 3.
+
 Challenges are ordered by difficulty. Entries will be rewarded a number of
 points that scales with the difficulty of the challenge. You can try
 to solve the challenge in the order you like. Starting with the most
 difficult is risky but you get a big reward if you succeed by the end
 of the session! Good luck to all!
 
-Workshop participants may
-[submit solutions](https://docs.google.com/forms/d/e/1FAIpQLScPEI21PtEpthhKMznd8W1jvBBhA6QcmX2LhW53ObXow85i0w/viewform)
-as individuals or in teams of up
-to 3 people.  
 
 ## Challenge 1 (1 point) -- Novice
 
