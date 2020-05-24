@@ -16,10 +16,9 @@ as individuals or in teams of up
 to 3 people.  Solutions are due at the start of the close-out session on Day 3.
 
 Challenges are ordered by difficulty. Entries will be rewarded a number of
-points that scales with the difficulty of the challenge. You can try
-to solve the challenge in the order you like. Starting with the most
-difficult is risky but you get a big reward if you succeed by the end
-of the session! Good luck to all!
+points that scales with the difficulty of the challenge. 
+
+Good luck to all!
 
 
 ## Challenge 1 (1 point) -- Novice
