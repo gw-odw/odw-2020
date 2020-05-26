@@ -11,3 +11,9 @@ Click links below to open tutorials in Google Colab
 ### Quiz Questions
 
 * [Quiz](https://drive.google.com/drive/folders/1NDNi96q7iPzdAs2ljOJIec7cGDWa_r3-)
+
+
+### More documentation
+
+* [gwosc client](https://pypi.org/project/gwosc/)
+* [gwpy](https://gwpy.github.io)
