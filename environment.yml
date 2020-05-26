@@ -22,7 +22,7 @@ dependencies:
 - bilby_pipe=0.3.5=py_0
 - billiard=3.6.3.0=py37h516909a_0
 - binutils-meta=1.0.4=0
-- binutils_impl_linux-64=2.34=h53a641e_0
+- binutils_impl_linux-64=2.34=h53a641e_2
 - binutils_linux-64=2.34=hc952b39_18
 - blas=2.16=openblas
 - bleach=3.1.5=pyh9f0ad1d_0
@@ -178,7 +178,7 @@ dependencies:
 - lalsimulation=2.0.0=h7495f13_0
 - lalsuite=6.70=pyh9f0ad1d_0
 - lazy-object-proxy=1.4.3=py37h8f50634_2
-- ld_impl_linux-64=2.34=h53a641e_0
+- ld_impl_linux-64=2.34=h53a641e_2
 - ldas-tools-al=2.6.4=hfd22054_0
 - ldas-tools-diskcacheapi-swig=2.6.8=hc9558a2_0
 - ldas-tools-diskcacheapi=2.7.0=h8b68381_0
