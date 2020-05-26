@@ -16,4 +16,4 @@ Click links below to open tutorials in Google Colab
 ### More documentation
 
 * [gwosc client](https://pypi.org/project/gwosc/)
-* [gwpy](https://gwpy.github.io)
+* [GWpy home page](https://gwpy.github.io)
