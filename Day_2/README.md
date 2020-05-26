@@ -13,4 +13,8 @@ Click links below to open tutorials in Google Colab
 
 * [Quiz](https://drive.google.com/drive/folders/1NDNi96q7iPzdAs2ljOJIec7cGDWa_r3-)
 
+### More documentation
+
+* [bilby documentation](https://lscsoft.docs.ligo.org/bilby/index.html)
+* [PyCBC documentation](http://pycbc.org/pycbc/latest/html/)
 
