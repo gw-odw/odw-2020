@@ -34,7 +34,7 @@ May 26-27, 2020
  * Working with compact object merger parameters and waveforms
  * Working with skymaps to identify likely source locations
 
-## Day 3
+## Data Challenge
 
 [Challenge](./Challenge)
 
