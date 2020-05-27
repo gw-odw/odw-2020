@@ -106,3 +106,12 @@ for ifo_name in ['H1','L1']:
     ifo.set_strain_data_from_frame_file('challenge3.gwf',sampling_rate, duration, start_time=start_time ,channel=ifo_name+':CHALLENGE3')
     interferometers.append(ifo)
 ```
+
+To load data in google co-lab.  Run this code, and then 'restart runtime', and run it again
+```
+! wget https://www.gw-openscience.org/s/workshop3/challenge/challenge3.gwf
+! pip install gwpy
+! pip install lalsuite
+from gwpy.timeseries import TimeSeries
+strain = TimeSeries.read('challenge3.gwf', channel="H1:CHALLENGE3")
+```
