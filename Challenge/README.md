@@ -109,9 +109,9 @@ for ifo_name in ['H1','L1']:
 
 To load data in google co-lab.  Run this code, and then 'restart runtime', and run it again
 ```
-! pip install gwpy
-! pip install lalsuite
-! pip install pycbc
+! pip install -q lalsuite
+! pip install -q gwpy
+! pip install -q pycbc
 # -- Click "restart runtime" in the runtime menu
 
 # -- download data
