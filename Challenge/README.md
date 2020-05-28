@@ -112,6 +112,13 @@ To load data in google co-lab.  Run this code, and then 'restart runtime', and r
 ! wget https://www.gw-openscience.org/s/workshop3/challenge/challenge3.gwf
 ! pip install gwpy
 ! pip install lalsuite
+! pip install pycbc
+
+# -- for gwpy 
 from gwpy.timeseries import TimeSeries
-strain = TimeSeries.read('challenge3.gwf', channel="H1:CHALLENGE3")
+gwpy_strain = TimeSeries.read('challenge3.gwf', channel="H1:CHALLENGE3")
+
+# -- for pycbc
+from pycbc import frame
+pycbc_strain = frame.read_frame('challenge3.gwf', 'H1:CHALLENGE3')
 ```
