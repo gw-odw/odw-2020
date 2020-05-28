@@ -109,10 +109,13 @@ for ifo_name in ['H1','L1']:
 
 To load data in google co-lab.  Run this code, and then 'restart runtime', and run it again
 ```
-! wget https://www.gw-openscience.org/s/workshop3/challenge/challenge3.gwf
 ! pip install gwpy
 ! pip install lalsuite
 ! pip install pycbc
+# -- Click "restart runtime" in the runtime menu
+
+# -- download data
+! wget https://www.gw-openscience.org/s/workshop3/challenge/challenge3.gwf
 
 # -- for gwpy 
 from gwpy.timeseries import TimeSeries
