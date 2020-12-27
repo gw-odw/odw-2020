@@ -86,5 +86,5 @@ See instructions here: https://docs.microsoft.com/en-us/windows/wsl/install-win1
 
 We suggest you install Debian GNU/Linux, which is the closest distribution to what is 
 used currently by LIGO/Virgo. Once you have Linux installed, follow the instructions 
-in Option 2.
+in Option 3.
 
